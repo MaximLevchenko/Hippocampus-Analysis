@@ -1,8 +1,8 @@
-# Hypocampus Size Analysis Project
+# hippocampus Size Analysis Project
 
 ## Overview
 
-This project aims to analyze the differences in hypocampus size between two groups: "Unaffect" and "Affected". Using data from an `.rda` file, the project calculates statistical measures and visualizes the distribution of values for both groups.
+This project aims to analyze the differences in hippocampus size between two groups: "Unaffect" and "Affected". Using data from an `.rda` file, the project calculates statistical measures and visualizes the distribution of values for both groups.
 
 ## Features
 
