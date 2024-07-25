@@ -1,4 +1,4 @@
-# hippocampus Size Analysis Project
+# Hippocampus Size Analysis Project
 
 ## Overview
 
